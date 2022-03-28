@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p4t-r1k
 - 👀 I’m interested in gaming, gamedev and IT.
-- 🌱 I’m currently learning programming in C++ and Javascript
+- 🌱 I’m currently learning programming in C++, C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
